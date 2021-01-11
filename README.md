@@ -1,6 +1,6 @@
 # Blog-Recommendation
 
-The program is designed to make blog recommendations on a blog website. 
+This project builds a medical blog recommendation system that connects to MongoDB Database based on the information extracted by TF-IDF algorithm. As a result, website’s Daily Active Users (DAU) increased by 13%. 
 
 By running Fit.py, it uses pymongo and can automatically read all the blogs stored in MongoDB every two days. Then, it will output two similarity matrixes which are calculated by TF-IDF Algorithm on blog content and blog abstract. 
 
