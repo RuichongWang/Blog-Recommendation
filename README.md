@@ -1,4 +1,4 @@
-# Blog Recommendation
+# Blog Recommendation using TF-IDF Algorithm
 This project builds a medical blog recommendation system that connects to MongoDB Database based on the information extracted by TF-IDF algorithm. As a result, website’s Daily Active Users (DAU) increased by 13%. 
 ## Repository contents
 ### python Fit.py
